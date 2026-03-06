@@ -1,6 +1,6 @@
 # Git Practice Lab
 
-This is a practice repository for learning Git basics.
+This is a sample repository for AI learning.
 
 ## Topics Covered
 - Repository initialization
